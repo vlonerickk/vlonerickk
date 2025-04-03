@@ -18,10 +18,7 @@
 - 📫 Contato: richard.rcket@gmail.com
 
 ##
-<div align="center">
- [Snake animation](https://github.com/duartegdm/duartegdm/blob/output/github-contribution-grid-snake.svg)
 
-</div>
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rickk-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -52,5 +49,8 @@
 
 <div align="center">
 <br>
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=7B68EE&center=true&vCenter=true&width=435&height=25%&lines=Obrigado pela visita!;Volte sempre!;Tenha um bom dia!" /></a>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=A2F7FFFF&center=true&vCenter=true&width=435&height=25%&lines=Obrigado pela visita!;Volte sempre!;Tenha um bom dia!" /></a>
 </div>
+
+<img src='https://capsule-render.vercel.app/api?type=waving&color=A2F7FFFF&height=120&section=header' width='100%'/>
+
