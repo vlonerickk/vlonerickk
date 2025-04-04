@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlonerickk&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlonerickk&layout=compact&theme=tokyonight)
 
 </div>
 
